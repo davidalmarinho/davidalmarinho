@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Frameworks and tools I have worked with before:
 ![My Skills](https://skills.thijs.gg/icons?i=cmake,git,gradle,svg,threejs)
-<img src="icons/vulkan.png" alt="Vulkan" width="46" style="border-radius: 20%">
+<img src="icons/vulkan.png" alt="Vulkan" width="46" class="rounded-image" style="-webkit-border-radius: 20px;-moz-border-radius: 20px;border-radius: 20%">
 
 
 ## Happy Hour:
