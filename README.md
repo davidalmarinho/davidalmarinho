@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Languages I have worked with before:
+![My Skills](https://skills.thijs.gg/icons?i=c,cpp,py,java,js,html,postgres)
+<img src="icons/riscv.png" alt="RiscV" width="46" style="display: inline-block; border-radius: 20%">
+
+## Frameworks and tools I have worked with before:
+![My Skills](https://skills.thijs.gg/icons?i=cmake,git,gradle,svg,threejs)
+<img src="icons/vulkan.png" alt="Vulkan" width="46" style="display: inline-block; border-radius: 20%">
+
+
+## Happy Hour:
+![My Skills](https://skills.thijs.gg/icons?i=c,rust,neovim,vscode,arch)
