@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 
 ## Languages I have worked with before:
 ![My Skills](https://skills.thijs.gg/icons?i=c,cpp,py,java,js,html,postgres)
-<img src="icons/riscv.png" alt="RiscV" width="46" style="border-radius: 20%">
+<img src="icons/riscv-rounded.png" alt="RiscV" width="48">
 
 ## Frameworks and tools I have worked with before:
 ![My Skills](https://skills.thijs.gg/icons?i=cmake,git,gradle,svg,threejs)
-<img src="icons/vulkan.png" alt="Vulkan" width="46" class="rounded-image" style="-webkit-border-radius: 20px;-moz-border-radius: 20px;border-radius: 20%">
-
+<img src="icons/vulkan-rounded.png" alt="Vulkan" width="48">
 
 ## Happy Hour:
 ![My Skills](https://skills.thijs.gg/icons?i=c,rust,neovim,vscode,arch)
