@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ## Languages I have worked with before:
-![My Skills](https://skills.thijs.gg/icons?i=c,cpp,py,java,js,html,postgres)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,postgres)
 <img src="icons/riscv-rounded.png" alt="RiscV" width="45" style="max-width: 100%; margin-left: 3px;">
 
 ## Frameworks and tools I have worked with before:
-![My Skills](https://skills.thijs.gg/icons?i=cmake,git,gradle,svg,threejs)
+![My Skills](https://skillicons.dev/icons?i=cmake,git,gradle,svg,threejs)
 <img src="icons/vulkan-rounded.png" alt="Vulkan" width="45" style="max-width: 100%; margin-left: 3px;">
 
 ## Happy Hour:
-![My Skills](https://skills.thijs.gg/icons?i=c,rust,neovim,vscode,arch)
+![My Skills](https://skillicons.dev/icons?i=c,rust,neovim,vscode,arch)
