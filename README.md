@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ## Languages I have worked with before:
-![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,latex,js,ts,html,css,postgres,ocaml)
+![c,cpp,py,java,latex,js,ts,html,css,postgres,ocaml](https://skillicons.dev/icons?i=c,cpp,py,java,latex,js,ts,html,css,postgres,ocaml)
 <img src="icons/riscv-rounded.png" alt="RiscV" width="45" style="max-width: 100%; margin-left: 3px;">
 
 ## Frameworks and tools I have worked with before:
-![My Skills](https://skillicons.dev/icons?i=cmake,git,gradle,maven,svg,threejs,django,react,tailwind,docker)
+![cmake,git,gradle,maven,svg,threejs,django,react,tailwind,docker](https://skillicons.dev/icons?i=cmake,git,gradle,maven,svg,threejs,django,react,tailwind,docker)
 <img src="icons/vulkan-rounded.png" alt="Vulkan" width="45" style="max-width: 100%; margin-left: 3px;">
 
 ## Happy Hour:
-![My Skills](https://skillicons.dev/icons?i=c,rust,neovim,vscode,arch)
+![c,rust,neovim,vscode,arch](https://skillicons.dev/icons?i=c,rust,neovim,vscode,arch)
